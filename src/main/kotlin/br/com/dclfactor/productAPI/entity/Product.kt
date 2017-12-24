@@ -1,6 +1,6 @@
 package br.com.dclfactor.productAPI.entity
 
-import java.util.*
+import br.com.dclfactor.productAPI.entity.enumeration.OriginEnum
 import javax.persistence.*
 
 @Entity
